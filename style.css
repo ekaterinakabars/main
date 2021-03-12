@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  background-color: #f5f5f5;
+}
+
+.heder {
+  top: 102px;
+  text-align: center;
+}
+.tex {
+  margin-top: 22px;
+  margin-bottom: 81px;
+  font-size: 16px;
+  color: dimgrey;
+  text-align: center;
+}
+
+.line {
+  width: 64px;
+  height: 2px;
+  margin: 22px auto;
+  background-color: orange;
+}
+
+.title {
+  margin-top: 102px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.section {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  margin-bottom: 119px;
+}
+.sectionWrapper {
+  width: 1139px;
+  margin: 0 auto;
+  padding-bottom: 111px;
+}
+
+.text {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 13px;
+  color: white;
+  background-color: black;
+}
+
+.table {
+  padding: 0;
+  padding-top: 20px;
+  padding-bottom: 111px;
+  list-style-type: none;
+  width: 80%;
+  font-size: 20px;
+  background-color: white;
+}
+
+.table1 {
+  padding-top: 81px;
+  padding-bottom: 184px;
+  padding: 0;
+  margin-bottom: 1px;
+  width: 80%;
+  list-style-type: none;
+  font-size: 20px;
+  background-color: white;
+}
+
+.m-rl-40 {
+  margin: 0 40px;
+  padding-bottom: 111px;
+}
+
+.heding {
+  font-size: 24px;
+  padding-top: 18px;
+  color: white;
+
+  color: white;
+  background-color: black;
+}
+
+.cent {
+  font-size: 24px;
+  padding-top: 38px;
+  padding-bottom: 38px;
+
+  color: white;
+  background-color: black;
+}
+
+li {
+  margin-bottom: 1px;
+  font-size: 20px;
+  color: #86878b;
+}
+
+.option {
+  height: 24px;
+  font-size: 16px;
+  text-align: center;
+  color: white;
+  background-color: orangered;
+}
+.strip {
+  height: 2px;
+  background-color: orangered;
+}
